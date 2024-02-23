@@ -1,5 +1,5 @@
 # Ftp
-Serveur Ftp non sécuriser (uniquement de l'envoie)
+Serveur Ftp non sécurisé (uniquement de l'envoi)
 
 # Compilation
 
